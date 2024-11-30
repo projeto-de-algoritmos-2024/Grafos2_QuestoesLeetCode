@@ -14,8 +14,11 @@ O nosso é um projeto de questões do juíz online leetCode, que é um ambiente 
 
 ## Screenshots
 
+**Questão 1568**
+![1568](/Questao-1568/assents/1568.png)
+
 ## Instalação 
-**Linguagem**: C++<br>
+**Linguagem**: C++<br> , Python<br>
 
 
 ## Uso 
@@ -29,7 +32,7 @@ O vídeo da entrega explicando o trabalho está aqui. Toque abaixo para acessar.
 | N° Questão | Descrição questão | Dificuldade |
 | --- | ------- | ---------- |
 | 802 | Find Eventual Safe States  |   Média |
-| xxxx  | xxxxxx   |   xxxxxxx      |
+| 1568  | Minimum Number of Days to Disconnect Island   |   Difícil      |
 | xxxxx | xxxxxxx   |   xxxxxxx      |
 | xxxxx    | xxxxxxx  |  xxxxxx      |
 | xxxxxx   | xxxxxxx  |   xxxxxxx       |
