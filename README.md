@@ -24,13 +24,13 @@ Para usar, deve-se entrar no site do [leetCode](https://leetcode.com/), pesquisa
 ## Vídeo 
 O vídeo da entrega explicando o trabalho está aqui. Toque abaixo para acessar.
 
-- [Entrega_01](https://youtu.be/YKng0v1eb14)
+- [Entrega_02]()
 ## Outros 
 | N° Questão | Descrição questão | Dificuldade |
 | --- | ------- | ---------- |
-| 2192 | All Ancestors of a Node in a Directed Acyclic Graph  |   Média |
-| 133  | Clone Graph   |   Média       |
-| 332  | Reconstruct Itinerary   |   Difícil      |
-| 2360    | Longest Cycle in a Graph   |   Difícil       |
-| 1761    | Minimum Degree of a Connected Trio in a Graph  |   Difícil       |
-| 2065    | Maximum Path Quality of a Graph   |   Difícil       |
+| 802 | Find Eventual Safe States  |   Média |
+| xxxx  | xxxxxx   |   xxxxxxx      |
+| xxxxx | xxxxxxx   |   xxxxxxx      |
+| xxxxx    | xxxxxxx  |  xxxxxx      |
+| xxxxxx   | xxxxxxx  |   xxxxxxx       |
+| xxxxx  | xxxxxxxxx  |  xxxxxxxx    |
