@@ -18,6 +18,10 @@ O nosso é um projeto de questões do juíz online leetCode, que é um ambiente 
 
 ![1568](/Questao-1568/assents/1568.png)
 
+**Questão 1489**
+
+![1489](/Questao-1489/assents/1489.png)
+
 ## Instalação 
 **Linguagem**: C++<br> , Python<br>
 
@@ -35,6 +39,6 @@ O vídeo da entrega explicando o trabalho está aqui. Toque abaixo para acessar.
 | 802 | Find Eventual Safe States  |   Média |
 | 1568  | Minimum Number of Days to Disconnect Island   |   Difícil      |
 | 847 |  Shortest Path Visiting All Nodes   |   Difícil      |
-| xxxxx    | xxxxxxx  |  xxxxxx      |
+| 1489    | Find Critical and Pseudo-Critical Edges in Minimim Spanning Tree  |  Difícil     |
 | xxxxxx   | xxxxxxx  |   xxxxxxx       |
 | xxxxx  | xxxxxxxxx  |  xxxxxxxx    |
