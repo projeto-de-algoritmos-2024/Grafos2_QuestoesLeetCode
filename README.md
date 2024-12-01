@@ -34,7 +34,7 @@ O vídeo da entrega explicando o trabalho está aqui. Toque abaixo para acessar.
 | --- | ------- | ---------- |
 | 802 | Find Eventual Safe States  |   Média |
 | 1568  | Minimum Number of Days to Disconnect Island   |   Difícil      |
-| xxxxx | xxxxxxx   |   xxxxxxx      |
+| 847 |  Shortest Path Visiting All Nodes   |   Difícil      |
 | xxxxx    | xxxxxxx  |  xxxxxx      |
 | xxxxxx   | xxxxxxx  |   xxxxxxx       |
 | xxxxx  | xxxxxxxxx  |  xxxxxxxx    |
