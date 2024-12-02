@@ -48,9 +48,9 @@ O vídeo da entrega explicando o trabalho está aqui. Toque abaixo para acessar.
 ## Outros 
 | N° Questão | Descrição questão | Dificuldade |
 | --- | ------- | ---------- |
-| 802 | Find Eventual Safe States  |   Média |
+| 802 | [Find Eventual Safe States](https://leetcode.com/problems/find-eventual-safe-states/)  |   Média |
 | 1568  | Minimum Number of Days to Disconnect Island   |   Difícil      |
-| 847 |  Shortest Path Visiting All Nodes   |   Difícil      |
+| 847 |  [Shortest Path Visiting All Nodes](https://leetcode.com/problems/shortest-path-visiting-all-nodes/)   |   Difícil      |
 | 1489    | Find Critical and Pseudo-Critical Edges in Minimim Spanning Tree  |  Difícil     |
-| 2642   | Design Graph With Shortest Path Calculator  |   Difícil      |
+| 2642   | [Design Graph With Shortest Path Calculator](https://leetcode.com/problems/design-graph-with-shortest-path-calculator/)  |   Difícil      |
 | xxxxx  | xxxxxxxxx  |  xxxxxxxx    |
