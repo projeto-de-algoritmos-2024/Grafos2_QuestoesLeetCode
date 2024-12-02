@@ -14,16 +14,28 @@ O nosso é um projeto de questões do juíz online leetCode, que é um ambiente 
 
 ## Screenshots
 
+**Questão 802**
+
+![802](/Questao-802/assents/802.png)
+
 **Questão 1568**
 
 ![1568](/Questao-1568/assents/1568.png)
+
+**Questão 847**
+
+![847](Questao-847/assents/847.png)
 
 **Questão 1489**
 
 ![1489](/Questao-1489/assents/1489.png)
 
+**Questão 2642**
+
+![2642](/Questao-2642/assents/2642.png)
+
 ## Instalação 
-**Linguagem**: C++<br> , Python<br>
+**Linguagens**: C<br> , Python<br>
 
 
 ## Uso 
@@ -40,5 +52,5 @@ O vídeo da entrega explicando o trabalho está aqui. Toque abaixo para acessar.
 | 1568  | Minimum Number of Days to Disconnect Island   |   Difícil      |
 | 847 |  Shortest Path Visiting All Nodes   |   Difícil      |
 | 1489    | Find Critical and Pseudo-Critical Edges in Minimim Spanning Tree  |  Difícil     |
-| xxxxxx   | xxxxxxx  |   xxxxxxx       |
+| 2642   | Design Graph With Shortest Path Calculator  |   Difícil      |
 | xxxxx  | xxxxxxxxx  |  xxxxxxxx    |
