@@ -34,6 +34,10 @@ O nosso é um projeto de questões do juíz online leetCode, que é um ambiente 
 
 ![2642](/Questao-2642/assents/2642.png)
 
+**Questão 1514**
+
+![1514](/Questao-1514/assents/1514.png)
+
 ## Instalação 
 **Linguagens**: C<br> , Python<br>
 
@@ -49,8 +53,8 @@ O vídeo da entrega explicando o trabalho está aqui. Toque abaixo para acessar.
 | N° Questão | Descrição questão | Dificuldade |
 | --- | ------- | ---------- |
 | 802 | [Find Eventual Safe States](https://leetcode.com/problems/find-eventual-safe-states/)  |   Média |
-| 1568  | Minimum Number of Days to Disconnect Island   |   Difícil      |
+| 1568  | [Minimum Number of Days to Disconnect Island](https://leetcode.com/problems/minimum-number-of-days-to-disconnect-island/)   |   Difícil      |
 | 847 |  [Shortest Path Visiting All Nodes](https://leetcode.com/problems/shortest-path-visiting-all-nodes/)   |   Difícil      |
-| 1489    | Find Critical and Pseudo-Critical Edges in Minimim Spanning Tree  |  Difícil     |
+| 1489    | [Find Critical and Pseudo-Critical Edges in Minimim Spanning Tree](https://leetcode.com/problems/find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree/)  |  Difícil     |
 | 2642   | [Design Graph With Shortest Path Calculator](https://leetcode.com/problems/design-graph-with-shortest-path-calculator/)  |   Difícil      |
-| xxxxx  | xxxxxxxxx  |  xxxxxxxx    |
+| 1514  | [Path with Maximum Probality](https://leetcode.com/problems/path-with-maximum-probability/)  |  Média    |
