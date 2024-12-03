@@ -39,16 +39,20 @@ O nosso é um projeto de questões do juíz online leetCode, que é um ambiente 
 ![1514](/Questao-1514/assents/1514.png)
 
 ## Instalação 
-**Linguagens**: C<br> , Python<br>
+**Linguagens**: 
+- C<br>
+- Python<br>
 
 
 ## Uso 
 Para usar, deve-se entrar no site do [leetCode](https://leetcode.com/), pesquisar a questão na aba de perguntas e copiar a solução indica e testar no local apropriado no site.
 
 ## Vídeo 
-O vídeo da entrega explicando o trabalho está aqui. Toque abaixo para acessar.
+Os vídeos da entrega explicando o trabalho estão aqui abaixo. No primeiro vídeo é a explicação de como rodar o algoritmo das questões usando o C na plataforma e no segundo vídeo, como rodar o algoritmo das questões usando Python. Toque abaixo para acessar.
 
-- [Entrega_02]()
+- [Entrega_02 - Parte 1](https://unbbr-my.sharepoint.com/:v:/g/personal/221008688_aluno_unb_br/EWJeqIaAUfJEiZMoseTY28MBID9nD_UkdHrEWuGA5987dQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=kz1JVk)
+- [Entrega 02 - Parte 2](https://unbbr-my.sharepoint.com/:v:/g/personal/180108875_aluno_unb_br/EXhDm9Cd3PNDlkolJACFHMABDGasaG_1xVC_6_77x7Ovsg?referrer=Teams.TEAMS-WEB&referrerScenario=MeetingChicletGetLink.view)
+  
 ## Outros 
 | N° Questão | Descrição questão | Dificuldade |
 | --- | ------- | ---------- |
